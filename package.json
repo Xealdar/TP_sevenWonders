@@ -1,0 +1,21 @@
+{
+  "name": "TP",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "xo && mocha",
+    "code-style": "xo"
+  },
+  "dependencies": {
+    "chai-as-promised": "^7.1.1",
+    "gulp-concat": "^2.6.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "gulp": "^4.0.0",
+    "mocha": "^6.0.2",
+    "xo": "^0.24.0"
+  }
+}
