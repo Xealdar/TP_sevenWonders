@@ -140,6 +140,3 @@ describe('world-worldEvents_.js', () => {
     });
   });
 });
-
-// Si jamais je dois refaire du début :
-// A faire : installer gulp - faire marcher le projet de base - installer xo
