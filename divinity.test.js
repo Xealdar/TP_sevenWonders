@@ -1,5 +1,3 @@
-import {describe, before, after, it} from 'mocha';
-
 const chai = require('chai');
 const chaiAsPromised = require('chai-as-promised');
 const {Divinity} = require('./divinity');
